@@ -70,7 +70,7 @@ export default function createPlugin({
     const {
       pure: PURE_ANNOTATION,
 
-      throwIfNamespace = true,
+      throwIfNamespace = false,
 
       filter,
 
