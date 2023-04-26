@@ -5,7 +5,7 @@
       {
         "pragma": "h",
         "runtime": "classic",
-        "throwIfNamespace": true
+        "throwIfNamespace": false
       }
     ]
   ],
